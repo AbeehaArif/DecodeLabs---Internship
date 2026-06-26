@@ -32,5 +32,5 @@ The recommender outputs a ranked list of career paths with the following diagnos
 ## How to Run
 1. Open this project folder in Visual Studio Code.
 2. Ensure you have the **Jupyter Extension** installed.
-3. Open the `recommendation_logic.ipynb` notebook file.
+3. Open the `AI_Recommendation_logic.ipynb` notebook file.
 4. Click **Run All** - the script will auto-generate `raw_skills.csv`, accept your skill inputs, and display the Top 3 recommended career paths.
